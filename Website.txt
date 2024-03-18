@@ -1,13 +1,13 @@
 Personal site content
     Index
         Main page
-        Funny Joke
-        Picture of me
+            Picture of me
+            Backgorund (Nationality and How)
+            Hobbies
+            Goals
     About
         Ocupation
         Hobbies
-        Political Views?
-        Resume?
 
     Portafolio
         Link to repositories where of my class work
