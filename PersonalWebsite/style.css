@@ -68,14 +68,24 @@ a {
     padding: 10px 4px 18px;
 }
 
-/* Index.html style */
+/* Main */
 
 .main {
     background-color: rgba(86, 53, 87, 0.705);
     padding: 10px auto;
     min-height: calc(100vh - 100px);
     border-radius: 50px 50px 0px 0px;
+    position: relative;
+    width: auto;
 }
+
+/* link hover */
+
+a:hover {
+    color: red;
+}
+
+/* Index.html style */
 
 .index {
     color: rgb(0, 0, 0);
@@ -126,4 +136,21 @@ a {
     height: 310px;
     padding: 30px;
     display: inline-block;
+}
+/* Portfolio.html Style */
+
+.bold {
+    margin: 0%;
+    padding: 25px;
+    color: white;
+    font-size: 20px;
+    text-shadow: 0px 0px 5px black;
+    background-color: rgba(137, 43, 226, 0.26);
+    border-radius: 50px;
+}
+.constrimg {
+    display: block;
+    width: calc(100% - 50px);
+    margin: auto;
+    border-radius: 20px;
 }
